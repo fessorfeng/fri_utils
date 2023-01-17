@@ -17,8 +17,10 @@
     "downlevelIteration": true,
     // 是否自动创建类型声明文件
     "declaration": true,
+    // 不生成声明文件map文件
+    "declarationMap": false,
     // 类型声明文件的输出目录
-    "declarationDir": "dist/types",
+    "declarationDir": "dist",
     // 只生成声明文件，而不会生成js文件
     "emitDeclarationOnly": true,
     // 指定输出文件目录(用于输出)，用于控制输出目录结构

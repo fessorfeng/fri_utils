@@ -4,7 +4,7 @@
   "description": "util function library",
   "main": "./dist/index.cjs.js",
   "module": "./dist/index.esm.js",
-  "types": "./dist/types/index.d.ts",
+  "types": "./dist/index.d.ts",
   "files": [
     "dist"
   ],
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitee.com/fessor/fri_utils.git"
+    "url": "git+https://github.com/fessorfeng/fri_utils.git"
   },
   "keywords": [
     "utils"
@@ -27,9 +27,9 @@
     "access": "public"
   },
   "bugs": {
-    "url": "https://gitee.com/fessor/fri_utils/issues"
+    "url": "https://github.com/fessorfeng/fri_utils/issues"
   },
-  "homepage": "https://gitee.com/fessor/fri_utils#readme",
+  "homepage": "https://github.com/fessorfeng/fri_utils#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^24.0.0",
     "@rollup/plugin-node-resolve": "^15.0.1",
